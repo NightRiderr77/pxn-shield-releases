@@ -24,14 +24,32 @@ It is the same account, the same configs and the same Store as the phone app.
 
 ## Download
 
-| | | |
-|---|---|---|
-| **Installer** | [`PXN-Shield-VPN-Setup-1.9.0.exe`][setup] | Adds a desktop and Start-menu shortcut. **Pick this one.** |
-| **Portable** | [`PXN-Shield-VPN-Portable-1.9.0.zip`][portable] | Unzip anywhere and run `PxnShield.exe`. Nothing is written outside the folder. |
+<div align="center">
+
+### [⬇ PXN-Shield-VPN-Setup-1.9.0.exe][setup]
+
+<sub>**This is the one to use.** Installs the app and adds a shortcut.</sub>
+
+</div>
 
 Everything the app needs is already inside — there is no runtime to install
 first. Windows will ask for administrator permission, because creating a network
 adapter needs it.
+
+<details>
+<summary><b>Portable version</b> — only if you cannot install software</summary>
+
+<br>
+
+[`PXN-Shield-VPN-Portable-1.9.0.zip`][portable] — unzip anywhere and run
+`PxnShield.exe`. Nothing is written outside the folder, so the whole thing moves
+or deletes as one directory.
+
+It still needs administrator, it will not add a shortcut or appear in Start, and
+it will not clean up after itself when you delete it. Use the installer unless
+you have a reason not to.
+
+</details>
 
 ## What it does
 
