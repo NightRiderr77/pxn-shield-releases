@@ -26,7 +26,7 @@ It is the same account, the same configs and the same Store as the phone app.
 
 <div align="center">
 
-### [⬇ PXN-Shield-VPN-Setup-1.9.0.exe][setup]
+### [⬇ PXN-Shield-VPN-Setup-1.9.1.exe][setup]
 
 <sub>**This is the one to use.** Installs the app and adds a shortcut.</sub>
 
@@ -41,7 +41,7 @@ adapter needs it.
 
 <br>
 
-[`PXN-Shield-VPN-Portable-1.9.0.zip`][portable] — unzip anywhere and run
+[`PXN-Shield-VPN-Portable-1.9.1.zip`][portable] — unzip anywhere and run
 `PxnShield.exe`. Nothing is written outside the folder, so the whole thing moves
 or deletes as one directory.
 
@@ -58,6 +58,7 @@ you have a reason not to.
 | 🛡️ **Covers the whole PC** | A real network adapter, so games, launchers, and anything with its own network stack go through the tunnel too — not only apps that happen to honour a proxy setting. |
 | 📊 **Your plans, live** | Data used and days left for every config on your account, straight from the panel. |
 | 🛒 **Buy and renew in the app** | Same packages, same prices, same banks and the same transfer remark as the website. Add store credit without leaving the app. |
+| 🚫 **Block ads** | Optional, off by default. Ad and tracker domains are dropped inside the tunnel, so games and apps are covered too — not just your browser. |
 | 🌐 **Routing rules** | Cloudflare Warp+ or a Sri Lankan exit, switched from the app. The tunnel reconnects itself so the change takes effect straight away. |
 | 📱 **Per-app tunnelling** | Send everything through, or pick exactly which programs use it. |
 | 📡 **Ping and uptime** | A real round trip to the server, measured outside the tunnel so the number means something. |
@@ -115,8 +116,8 @@ This repository is the download channel. The source is private.
 
 [latest]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest
 [releases]: https://github.com/NightRiderr77/pxn-shield-windows/releases
-[setup]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Setup-1.9.0.exe
-[portable]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Portable-1.9.0.zip
+[setup]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Setup-1.9.1.exe
+[portable]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Portable-1.9.1.zip
 [site]: https://www.pxnstores.lk
 [whatsapp]: https://wa.me/94761546544
 [android]: https://github.com/NightRiderr77/pxn-shield-android
