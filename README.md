@@ -26,7 +26,7 @@ It is the same account, the same configs and the same Store as the phone app.
 
 <div align="center">
 
-### [⬇ PXN-Shield-VPN-Setup-1.9.5.exe][setup]
+### [⬇ PXN-Shield-VPN-Setup-1.9.6.exe][setup]
 
 <sub>**This is the one to use.** Installs the app and adds a shortcut.</sub>
 
@@ -41,7 +41,7 @@ adapter needs it.
 
 <br>
 
-[`PXN-Shield-VPN-Portable-1.9.5.zip`][portable] — unzip anywhere and run
+[`PXN-Shield-VPN-Portable-1.9.6.zip`][portable] — unzip anywhere and run
 `PxnShield.exe`. Nothing is written outside the folder, so the whole thing moves
 or deletes as one directory.
 
@@ -116,8 +116,8 @@ This repository is the download channel. The source is private.
 
 [latest]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest
 [releases]: https://github.com/NightRiderr77/pxn-shield-windows/releases
-[setup]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Setup-1.9.5.exe
-[portable]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Portable-1.9.5.zip
+[setup]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Setup-1.9.6.exe
+[portable]: https://github.com/NightRiderr77/pxn-shield-windows/releases/latest/download/PXN-Shield-VPN-Portable-1.9.6.zip
 [site]: https://www.pxnstores.lk
 [whatsapp]: https://wa.me/94761546544
 [android]: https://github.com/NightRiderr77/pxn-shield-android
